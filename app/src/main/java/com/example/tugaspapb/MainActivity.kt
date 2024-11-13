@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             TugasPapbTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Nakoa",
+                        name = "Nakoaa",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
